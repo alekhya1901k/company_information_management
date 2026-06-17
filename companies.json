@@ -1,0 +1,24 @@
+[
+    {
+        "company_name": "ABC Technologies",
+        "address": "Dallas, Texas",
+        "industry_type": "IT",
+        "domain": "Healthcare",
+        "projects": [
+            "Hospital Management System"
+        ],
+        "project_budget": 50000,
+        "project_timeline": "6 Months"
+    },
+    {
+        "company_name": "XYZ Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": "8 Months"
+    }
+]
