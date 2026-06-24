@@ -1,14 +1,470 @@
 [
     {
-        "company_name": "ABC Technologies",
-        "address": "Dallas, Texas",
-        "industry_type": "IT",
-        "domain": "Healthcare",
+        "company_name": "Agentic Technologies",
+        "address": "ABC Technologies",
+        "industry_type": "ABC Technologies",
+        "domain": "ABC Technologies",
         "projects": [
-            "Hospital Management System"
+            "ABC Technologies",
+            "ABC Technologies",
+            "ABC Technologies"
         ],
-        "project_budget": 50000,
-        "project_timeline": "6 Months"
+        "project_budget": 20.0,
+        "project_timeline": 13
+    },
+    {
+        "company_name": "Apex Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 8
+    },
+    {
+        "company_name": "BluePeak Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 15
+    },
+    {
+        "company_name": "Nexa Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 22
+    },
+    {
+        "company_name": "Forsys inc",
+        "address": "Bangalore",
+        "industry_type": "IT",
+        "domain": "Salesforce",
+        "projects": [
+            "Hitachi Vantara",
+            " FDB"
+        ],
+        "project_budget": 9000000.0,
+        "project_timeline": 29
+    },
+    {
+        "company_name": "Quantum Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 36
+    },
+    {
+        "company_name": "Vertex Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 43
+    },
+    {
+        "company_name": "Finova Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 50
+    },
+    {
+        "company_name": "Apex Force Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Salesforce",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 57
+    },
+    {
+        "company_name": "Pinnacle Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 4
+    },
+    {
+        "company_name": "Stratus Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 11
+    },
+    {
+        "company_name": "Fusion Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 18
+    },
+    {
+        "company_name": "NovaBridge Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 25
+    },
+    {
+        "company_name": "Titan Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 32
+    },
+    {
+        "company_name": "PrimeWave Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 39
+    },
+    {
+        "company_name": "Skyline Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 46
+    },
+    {
+        "company_name": "CoreAxis Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 53
+    },
+    {
+        "company_name": "BrightPath Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 60
+    },
+    {
+        "company_name": "Velocity Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 7
+    },
+    {
+        "company_name": "Zenith Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 14
+    },
+    {
+        "company_name": "Optima Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 21
+    },
+    {
+        "company_name": "Elevate Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 28
+    },
+    {
+        "company_name": "IronGate Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 35
+    },
+    {
+        "company_name": "Summit Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 42
+    },
+    {
+        "company_name": "CrestPoint Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 49
+    },
+    {
+        "company_name": "Aurora Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 56
+    },
+    {
+        "company_name": "Infosys",
+        "address": "Pune",
+        "industry_type": "Cloud",
+        "domain": "Devops",
+        "projects": [
+            "Mira",
+            "Fortune",
+            "Topaz"
+        ],
+        "project_budget": 459000.0,
+        "project_timeline": 3
+    },
+    {
+        "company_name": "MatrixOne Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 10
+    },
+    {
+        "company_name": "Orbit Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 17
+    },
+    {
+        "company_name": "Horizon Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 24
+    },
+    {
+        "company_name": "Catalyst Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 31
+    },
+    {
+        "company_name": "Everest Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 38
+    },
+    {
+        "company_name": "NorthStar Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 45
+    },
+    {
+        "company_name": "Vantage Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 52
+    },
+    {
+        "company_name": "ClearStone Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 59
+    },
+    {
+        "company_name": "RiverGate Bank Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": 6
+    },
+    {
+        "company_name": "Igate",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": "8 Months"
+    },
+    {
+        "company_name": "Rivera",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": "8 Months"
+    },
+    {
+        "company_name": "Nerova",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": "8 Months"
+    },
+    {
+        "company_name": "XYZ Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": "8 Months"
+    },
+    {
+        "company_name": "XYZ Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": "8 Months"
+    },
+    {
+        "company_name": "XYZ Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": "8 Months"
     },
     {
         "company_name": "XYZ Solutions",

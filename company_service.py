@@ -28,6 +28,17 @@ def add_company(company):
     return True, "Company added successfully"
 
 
+def company_exists(company_name):
+
+    companies = read_companies()
+
+    for company in companies:
+
+        if company["company_name"].strip().lower() == company_name.strip().lower():
+            return True
+
+    return False
+
 def search_company(search_text):
 
     companies = read_companies()
@@ -89,10 +100,8 @@ def get_company_details(company_name):
     companies = read_companies()
 
     for company in companies:
-
-        if company["company_name"].lower() == company_name.lower():
+        if company["company_name"].strip().lower() == company_name.strip().lower():
             return company
-
     return None
 
 
@@ -102,7 +111,7 @@ def edit_company(company_name, updated_company):
 
     for index in range(len(companies)):
 
-        if companies[index]["company_name"].lower() == company_name.lower():
+        if companies[index]["company_name"].strip().lower() == company_name.strip().lower():
 
             companies[index] = updated_company
 
