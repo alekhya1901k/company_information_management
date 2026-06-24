@@ -476,5 +476,16 @@
         ],
         "project_budget": 75000,
         "project_timeline": "8 Months"
+    },
+    {
+        "company_name": "XYZ Solutions",
+        "address": "Plano, Texas",
+        "industry_type": "Finance",
+        "domain": "Banking",
+        "projects": [
+            "Loan Processing System"
+        ],
+        "project_budget": 75000,
+        "project_timeline": "8 Months"
     }
 ]
