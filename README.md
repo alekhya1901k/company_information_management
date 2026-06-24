@@ -26,7 +26,7 @@ The application must:
 
 # Technology Stack
 
-* Python 3.x
+* Python 3.12
 * JSON File Storage
 * Command Line Interface (CLI)
 
